@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DomenicoDiFina
+- 👀 I’m interested in Software Development and Data Science
+- 🌱 I’m currently at the last year of a Computer Science Master at Università degli Studi di Palermo
